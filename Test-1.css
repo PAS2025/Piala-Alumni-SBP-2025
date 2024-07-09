@@ -8,7 +8,6 @@
 }
 body{
 	height: 100vh;
-	width: auto;
 	display: flex;
 	align-items: center;
 	justify-content: center;
@@ -18,8 +17,7 @@ body{
 	background-repeat: no-repeat;
 }
 .container{
-	height: 700px;
-	width: 8000px;
+	width: 500px;
 	padding: 30px;
 	border: 1px solid #eeeeee;
 	border-radius: 10px;
