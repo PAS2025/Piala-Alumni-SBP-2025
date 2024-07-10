@@ -12,14 +12,16 @@ body{
 	align-items: center;
 	justify-content: center;
 	
+	
 }
 .container{
-	width: auto;
-	height: auto;
+	width: 600px;
+	height: 900px;
 	padding: 30px;
-	border: 1px solid #eeeeee;
+	border: 5px solid #eeeeee;
 	border-radius: 10px;
 	background-color: #003b5b;
+	align-items: center;
 }
 h4{
 	margin-bottom: 10px;
