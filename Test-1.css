@@ -23,6 +23,7 @@ body{
 	border: 5px solid #eeeeee;
 	border-radius: 10px;
 	background-color: #003b5b;
+	align-items: center;
 }
 h4{
 	margin-bottom: 10px;
