@@ -42,7 +42,7 @@ textarea{
 	background-color: orangered;
 	color: white;
 	width: 200px;
-	margin-top: 1px;
+	margin-top: 10px;
 	border-radius: 5px;
 }
 #submit:hover{
